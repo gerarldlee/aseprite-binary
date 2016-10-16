@@ -13,4 +13,3 @@ If you found you are earning with this project, you may want to give back to Dav
 Just get the allegro, or skia folder, run the aseprite.exe, then youre good to go!
 
 Cheers!
-- Gee
