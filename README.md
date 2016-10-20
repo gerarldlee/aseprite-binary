@@ -1,5 +1,5 @@
 # aseprite-binary
-An aseprite binary build for Windows x64
+An aseprite binary build, compiled for Windows x86/x64
 
 # description
 This is a binary build taken from https://github.com/aseprite/aseprite which is open source.  This is more of like a convenience way to get the sources working.  This is built using Windows 10 x64 with MS-Visual Studio 15 community edition.
@@ -8,10 +8,21 @@ I have build aseprite using both libraries - Allegro and Skia.  My personal opin
 
 If your an artist or a game designer, this is of least concern to you.  Download whichever binary you want.  We recommend the Skia build.
 
-If you found you are earning with this project, you may want to give back to David Capello, the author of aseprite at https://github.com/aseprite/aseprite he is selling the binary for $100.
+If you found this project useful, you may want to give back to David Capello, the author of aseprite at https://github.com/aseprite/aseprite he is selling the binary for $15.
 
 # running
-
 Just download the allegro, or skia folder, run the aseprite.exe, then youre good to go!
+
+# aseprite readme
+https://github.com/aseprite/aseprite/blob/master/README.md
+
+# aseprite documentation
+https://www.aseprite.org/docs/
+
+# tutorial on how to use
+https://www.aseprite.org/docs/tutorial/
+
+# aseprite faq
+https://www.aseprite.org/faq/
 
 Cheers!
